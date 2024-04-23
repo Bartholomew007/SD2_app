@@ -16,6 +16,7 @@ dependencies:
     # Note: We use a path dependency because the example app & plugin are bundled together.
     # In *your* app you should use ^1.17.3 or similar 
     path: ../
+  syncfusion_flutter_charts: ^25.1.41+1
 
 flutter:
   uses-material-design: true
